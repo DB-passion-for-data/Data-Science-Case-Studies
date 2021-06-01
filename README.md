@@ -13,3 +13,8 @@ place ads and implement marketing strategies.
 #### 2. Removing Inconsistencies in Concrete Compressive strengths.
 I used regression analysis and found out the variables that contribute most towards determination of concrete strengths.
 It can help the testing unit to determine certain thresholds and important factors related to concrete strength, thus improving the quality of concrete.
+
+#### 3.Predicting Daily Adjusted Closing Rate of Yahoo
+I used time series analysis to forecast yahoo adj closing rates.
+It can then help clients to make further decisions based upon the forecasted prices and invest accordingly.
+
