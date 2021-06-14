@@ -14,7 +14,14 @@ place ads and implement marketing strategies.
 I used regression analysis and found out the variables that contribute most towards determination of concrete strengths.
 It can help the testing unit to determine certain thresholds and important factors related to concrete strength, thus improving the quality of concrete.
 
-#### 3.Predicting Daily Adjusted Closing Rate of Yahoo
+#### 3. Predicting Daily Adjusted Closing Rate of Yahoo
 I used time series analysis to forecast yahoo adj closing rates.
 It can then help clients to make further decisions based upon the forecasted prices and invest accordingly.
+
+#### 4. Exploring trend in names over 19th-20th century
+I have tried to explore trends in names in 19th and 20th century. I tried to answers questions like ,
+- What were changing naming practices ? 
+- Was there bias in names ending in n ?
+- What were the 10 most common unisex names ?
+ 
 
