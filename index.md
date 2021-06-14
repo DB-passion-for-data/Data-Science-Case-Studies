@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome to portfolio
 
-You can use the [editor on GitHub](https://github.com/DB-passion-for-data/Data-Science-Case-Studies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# I am Divyansh Bobade
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an aspiring data analyst who loves to analyze data. My focus mostly remains towards solving various business problems, and finding their solutions inorder to boost them the growth they aspire.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src ="https://storage.googleapis.com/twg-content/original_images/_Gifs_Collections_Digital_Marketing.gif"></img>
 
-```markdown
-Syntax highlighted code block
+Data Science is extensively used in the business related areas to improve their services , products and therefore, Revenue.
+There are variety of problems that can be solved using data science. Here , in this repo, I have tried to solve some problems :
 
-# Header 1
-## Header 2
-### Header 3
+#### 1. Building a Brand Persona for Cycle Sharing Services
+I have tried to analyse the cycle sharing data and found out the type of customers to target and time & place to 
+place ads and implement marketing strategies.
 
-- Bulleted
-- List
+#### 2. Removing Inconsistencies in Concrete Compressive strengths.
+I used regression analysis and found out the variables that contribute most towards determination of concrete strengths.
+It can help the testing unit to determine certain thresholds and important factors related to concrete strength, thus improving the quality of concrete.
 
-1. Numbered
-2. List
+#### 3.Predicting Daily Adjusted Closing Rate of Yahoo
+I used time series analysis to forecast yahoo adj closing rates.
+It can then help clients to make further decisions based upon the forecasted prices and invest accordingly.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DB-passion-for-data/Data-Science-Case-Studies/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
