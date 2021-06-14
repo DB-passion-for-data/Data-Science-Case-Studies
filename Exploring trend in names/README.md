@@ -1,4 +1,6 @@
 # Exploring trend in names
+![image](https://user-images.githubusercontent.com/69857637/121919398-9d9a1580-cd54-11eb-8fdc-795af10bc2e8.png)
+
 
 ## Changing naming practices
 A development related to the rate acceleration in name changes is name diver- sification. It has been observed by various scholars that over the course of the past two centuries more and more names came into use, while at the same time, the most popular names were given to less and less children (Lieberson 2000). In this section, we attempt to back up these two claims with some empirical evidence.
