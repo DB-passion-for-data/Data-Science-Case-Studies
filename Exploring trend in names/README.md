@@ -1,5 +1,5 @@
 # Exploring trend in names
-![image](https://user-images.githubusercontent.com/69857637/121919398-9d9a1580-cd54-11eb-8fdc-795af10bc2e8.png)
+<img src='http://giphygifs.s3.amazonaws.com/media/NUBp5KcV0PJBe/giphy.gif'></img>
 
 
 ## Changing naming practices
