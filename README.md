@@ -23,5 +23,10 @@ I have tried to explore trends in names in 19th and 20th century. I tried to ans
 - What were changing naming practices ? 
 - Was there bias in names ending in n ?
 - What were the 10 most common unisex names ?
+
+#### 5. Determining discount rates to stop churning
+
+- Cleaned the data and build churn prediction model and analyzed churn drivers
+- Determined discount rates so that it does not have effect upon company's revenue too
  
 
