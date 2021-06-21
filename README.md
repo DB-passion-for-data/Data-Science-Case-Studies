@@ -28,5 +28,11 @@ I have tried to explore trends in names in 19th and 20th century. I tried to ans
 
 - Cleaned the data and build churn prediction model and analyzed churn drivers
 - Determined discount rates so that it does not have effect upon company's revenue too
- 
+
+#### 6. Determining short-tail keywords for nmarketing
+
+- Cleaned data and transformed for cluster analysis
+- Performed PCA to get better visualization of clusters
+- Created non-uniform Clusters using GMM for better analysis
+- Finalised Keywords for marketing of upcoming conference
 
